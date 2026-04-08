@@ -22,6 +22,7 @@ Bu projenin temel odağı, insan vücudundan gelen mikrovolt seviyesindeki zayı
 * **Güvenlik Odaklı Layout:** İzolasyon bariyeri (Clearance/Creepage), kullanıcı güvenliğini en üst düzeyde tutacak şekilde tasarlanmıştır.
 * **Özel Geometri:** Ergonomik kullanım ve estetik bir görünüm için **özel pahlı (chamfered)** kenar kesimi uygulanmıştır.
 * **Sinyal Bütünlüğü:** Hassas analog hatlar, dijital gürültüden (EMI) korunması için PCB üzerinde optimize edilmiştir.
+* **GND Copper Pour (Topraklama Alanı):** Sinyal bütünlüğünü artırmak ve gürültüyü minimize etmek amacıyla PCB'nin hem ön (F.Cu) hem de arka (B.Cu) yüzeyine geniş bakır alanlar (Copper Pour) eklenerek tüm toprak hatları optimize edilmiştir.
 
 ![PCB Tasarımı](./Bio-Data-Bridge-pcb.png)
 
